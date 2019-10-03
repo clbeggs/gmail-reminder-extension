@@ -1,4 +1,4 @@
-<h1>Small Firefox Extension to help remind to attach files to emails for those who have "detail oriented" listed under their skills on their resume, but forget to attach their resume..</h1>
+<h3>Small Firefox Extension to help remind to attach files to emails for those who have "detail oriented" listed under their skills on their resume, but forget to attach their resume..</h3>
 
 
 Recently I attended a job fair, after perservering through all of the hard work 
