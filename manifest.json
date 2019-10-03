@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "gmailScript",
+  "version": "1.0",
+
+  "description": "Reminds user to attach a file to an email",
+
+  "icons": {
+    "48": "icons/file.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://mail.google.com/*"],
+      "js": ["gmailScript.js"]
+    }
+  ]
+
+}
