@@ -3,7 +3,7 @@
 
 Recently I attended a job fair, after persevering through all of the hard work of revising my Resume, making sure my GitHub was all up to date, and humble bragging to strangers, I went home to send follow up emails as most attendees do.
 
-Over the next couple of hours, I tailor-made an email for each person I talked too, explaining why I would be a good fit on their team. Then I hit send on the last email. PHEW all done with, now its time to study for-- AH! I forgot to attach my resume to each of the emails... And I ended each one with "Attached below is my Resume .."
+Over the next couple of hours, I tailor-made an email for each person I talked too, explaining why I would be a good fit on their team. Then I hit send on the last email. *PHEW* all done with, now its time to study for-- AH! I forgot to attach my resume to each of the emails... And I ended each one with "Attached below is my Resume .."
 
 Worst. Feeling. Ever.
 
