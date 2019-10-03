@@ -33,8 +33,7 @@
 
       function displayRed(){
         document.body.appendChild(newAbsDiv);
-        newAbsDiv.style.borderColor = "red";
-        console.log("ASASDASDASDASDASDASDASDASDASD")
+        newAbsDiv.style.borderColor = "red"
       }
 
 
